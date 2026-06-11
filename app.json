@@ -2,5 +2,5 @@
   "name": "demo-app",
   "version": "1.0",
   "environment": "production",
-  "port": 3000
+  "port": 8000
 }
